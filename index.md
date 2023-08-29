@@ -9,9 +9,15 @@ While not sure the exact *theme* of my code that I plan on posting, I do hope to
 
 Here are some images I found **aestheticly** pleasing:  
 
-* ![](marek-piwnicki-2jXDeCH11l8-unsplash.png)  
-* ![](riccardo-chiarini-a4Swf9wzdKA-unsplash.png)  
-* ![](dan-russo-k6D1rYZQkok-unsplash.png)  
+![](marek-piwnicki-2jXDeCH11l8-unsplash.png)  
+
+Here is another...
+
+![](riccardo-chiarini-a4Swf9wzdKA-unsplash.png)  
+
+And here is the last one...  
+
+![](dan-russo-k6D1rYZQkok-unsplash.png)  
 
 *I am still learning how to add pictures*
 
