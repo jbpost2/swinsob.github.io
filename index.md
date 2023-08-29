@@ -9,6 +9,9 @@ While not sure the exact *theme* of my code that I plan on posting, I do hope to
 
 Here are some images I found **aestheticly** pleasing:
 
+{r graphics, out.width = "800px", echo = false}
+knitr::include_graphics(marek-piwnicki-2jXDeCH11l8-unsplash.png)
+
 ![](marek-piwnicki-2jXDeCH11l8-unsplash.png)
 
 
