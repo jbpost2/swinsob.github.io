@@ -9,9 +9,9 @@ While not sure the exact *theme* of my code that I plan on posting, I do hope to
 
 Here are some images I found **aestheticly** pleasing:  
 
-1. ![](marek-piwnicki-2jXDeCH11l8-unsplash.png)  
-2. ![](riccardo-chiarini-a4Swf9wzdKA-unsplash.png)  
-3. ![](dan-russo-k6D1rYZQkok-unsplash.png)  
+* ![](marek-piwnicki-2jXDeCH11l8-unsplash.png)  
+* ![](riccardo-chiarini-a4Swf9wzdKA-unsplash.png)  
+* ![](dan-russo-k6D1rYZQkok-unsplash.png)  
 
 *I am still learning how to add pictures*
 
