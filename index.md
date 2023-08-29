@@ -9,7 +9,8 @@ While not sure the exact *theme* of my code that I plan on posting, I do hope to
 
 Here are some images I found **aestheticly** pleasing:  
 
-    ![](marek-piwnicki-2jXDeCH11l8-unsplash.png)
+![](marek-piwnicki-2jXDeCH11l8-unsplash.png)
+
 
 *I am still learning how to add pictures*
 
