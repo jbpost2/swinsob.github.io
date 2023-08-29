@@ -11,10 +11,12 @@ Here are some images I found **aestheticly** pleasing:
 
     ![](marek-piwnicki-2jXDeCH11l8-unsplash.png)
 
+*I am still learning how to add pictures*
 
+In the mean time...**enjoy** the following links:
 
-Here you can say lots of fun things about your site.
+1. <https://unsplash.com/photos/a-bunch-of-flowers-that-are-next-to-each-other-lO4D6Isdtrk>
+2. <https://unsplash.com/photos/a-view-of-a-mountain-with-trees-in-the-foreground-dsg1et_zRYg>
+3. <https://unsplash.com/photos/a-pink-flower-in-the-middle-of-a-road-BqjfbCAqIUM>
 
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+If you feel I have left you with more questions than answers me email is ... <bmswinso@ncsu.edu>
