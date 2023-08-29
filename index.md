@@ -9,15 +9,16 @@ While not sure the exact *theme* of my code that I plan on posting, I do hope to
 
 Here are some images I found **aestheticly** pleasing:  
 
-![](marek-piwnicki-2jXDeCH11l8-unsplash.png)
-
+1. ![](marek-piwnicki-2jXDeCH11l8-unsplash.png)  
+2. ![](riccardo-chiarini-a4Swf9wzdKA-unsplash.png)  
+3. ![](dan-russo-k6D1rYZQkok-unsplash.png)  
 
 *I am still learning how to add pictures*
 
 In the mean time...**enjoy** the following links:
 
-1. <https://unsplash.com/photos/a-bunch-of-flowers-that-are-next-to-each-other-lO4D6Isdtrk>
-2. <https://unsplash.com/photos/a-view-of-a-mountain-with-trees-in-the-foreground-dsg1et_zRYg>
-3. <https://unsplash.com/photos/a-pink-flower-in-the-middle-of-a-road-BqjfbCAqIUM>
+1. [Flowers](https://unsplash.com/photos/a-bunch-of-flowers-that-are-next-to-each-other-lO4D6Isdtrk)
+2. [Mountain](https://unsplash.com/photos/a-view-of-a-mountain-with-trees-in-the-foreground-dsg1et_zRYg)
+3. [Another Flower](https://unsplash.com/photos/a-pink-flower-in-the-middle-of-a-road-BqjfbCAqIUM)
 
 If you feel I have left you with more questions than answers me email is ... <bmswinso@ncsu.edu>
