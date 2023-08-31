@@ -9,7 +9,7 @@ While not sure the exact *theme* of my code that I plan on posting, I do hope to
 
 Here are some images I found **aestheticly** pleasing:  
 
-![](marek-piwnicki-2jXDeCH11l8-unsplash.png)  
+![](https://github.com/swinsob/swinsob.github.io/blob/main/marek-piwnicki-2jXDeCH11l8-unsplash.png?raw=true)  
 
 Here is another...
 
